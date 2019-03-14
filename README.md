@@ -1,9 +1,10 @@
 # php-and-mySQL
-CRUD operations on mySQL database using php PDO Agent
+"Doesn't Matter" was developed by a group of two students as part of Web Scripting class coursework.
 
-Technology & Features used:
+Features & Technologies used:
+
+CRUD operations on mySQL database using php PDO Agent
 
 Materialize - CSS Framework | CSS grid | CANVAS | TimeZone API 
 
-
-Project Name: Doesn't Matter, Developers: Alina Pak and João Vitor Wilke Silva
+Developers: Alina Pak and João Vitor Wilke Silva
