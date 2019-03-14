@@ -1,3 +1,4 @@
+-- mysql database with Teams, Players and Coaches tables 
 DROP DATABASE IF EXISTS project;
 
 CREATE DATABASE IF NOT EXISTS project;
