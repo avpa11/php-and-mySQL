@@ -1,5 +1,5 @@
 <?php 
-
+// This is a Page class that handles html script
 class Page {
 
     static public $title = "Please set the title";
