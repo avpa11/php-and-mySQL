@@ -1,5 +1,5 @@
 <?php
-
+//This is a mapper class for a coach object 
 class coachmapper    {
 
     //Attributes
