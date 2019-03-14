@@ -4,7 +4,6 @@
 Features & Technologies used:
 
 CRUD operations on mySQL database using php PDO Agent
-
-Materialize - CSS Framework | CSS grid | CANVAS | TimeZone API 
+| Materialize - CSS Framework | CSS grid | CANVAS | TimeZone API 
 
 Developers: Alina Pak and João Vitor Wilke Silva
