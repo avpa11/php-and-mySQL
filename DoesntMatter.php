@@ -2,10 +2,8 @@
 /**
  * Group Name : Doesnt Matter
  * Students:
- * Joao Vitor Wilke Silva 300278748
- * Alina Pak 300277280
- * Sergei Bisborodov 300264653
- * 
+ * Joao Vitor Wilke Silva 
+ * Alina Pak 
  */
 
 // Requires the files
