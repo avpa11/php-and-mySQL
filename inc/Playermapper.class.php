@@ -1,5 +1,5 @@
 <?php
-
+// This is a mapper class for a player object
 class playermapper    
 {
     //Attributes
