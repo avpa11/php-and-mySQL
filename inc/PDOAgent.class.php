@@ -1,5 +1,5 @@
 <?php
-
+// PDOAgent provided by CSIS instructor at Douglas College - Rahim Virani with small adjustment by students
 class PDOAgent {
 
     // Attributes
